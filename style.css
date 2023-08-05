@@ -1,0 +1,14 @@
+footer {
+    background-color: lightblue;
+}
+
+body {
+    background-color: white;
+}
+
+
+.box {
+    padding: 15px;
+    border: 1px solid lightgrey;
+    
+}
